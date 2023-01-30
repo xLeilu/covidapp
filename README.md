@@ -2,7 +2,7 @@
 
 Projekt aplikacji uCovid.
 
-## Getting Started
+## Opis
 
 Projekt na przedmiot "Projekt grupowy" na uczelni.
 
